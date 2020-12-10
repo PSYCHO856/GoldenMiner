@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1743933413
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prefabs
+      Dependencies: {}
+    Info_1:
+      Name: uihomepanel_prefab
+      Dependencies: {}

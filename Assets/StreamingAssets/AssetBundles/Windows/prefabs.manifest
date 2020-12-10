@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 2815782319
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 586eb6084c2ddb4d2d50fb768bba820b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 203bcfb1afcf9298571ec77debf129cc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 27e0e3630af2a1f49b1ad8f96f68f043, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/boomObj.prefab
+- Assets/Resources/Prefabs/stoneTwo.prefab
+- Assets/Resources/Prefabs/Potion.prefab
+- Assets/Resources/Prefabs/stoneOne.prefab
+- Assets/Resources/Prefabs/Diamonds.prefab
+- Assets/Resources/Prefabs/fractionText.prefab
+- Assets/Resources/Prefabs/boomUI.prefab
+- Assets/Resources/Prefabs/goldTwo.prefab
+- Assets/Resources/Prefabs/gold.prefab
+- Assets/Resources/Prefabs/explosive.prefab
+Dependencies: []
